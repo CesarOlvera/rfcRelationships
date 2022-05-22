@@ -1,0 +1,81 @@
+My RFC list include : ['7761', '6343', '5175', '5095', '4941', '4862', '4861', '4389', '4213', '4193', '4007', '3971', '3596', '3587', '3493', '3056', '3053', '2894', '2675', '2464', '2185', '1752', '8200', '8201']
+My RFC list total count : 24
+
+-- Analysis for RFC7761 :
+  ['7761', 'Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol Specification (Revised). B. Fenner, M. Handley, H. Holbrook, I. Kouvelas, R. Parekh, Z. Zhang, L. Zheng. March 2016. (Format: TXT, HTML) (Obsoletes RFC4601) (Updated by RFC8736) (Also STD0083) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC7761)']
+      - Found new relationship : Updated by RFC8736
+
+-- Analysis for RFC6343 :
+  ['6343', 'Advisory Guidelines for 6to4 Deployment. B. Carpenter. August 2011. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6343)']
+
+-- Analysis for RFC5175 :
+  ['5175', 'IPv6 Router Advertisement Flags Option. B. Haberman, Ed., R. Hinden. March 2008. (Format: TXT, HTML) (Obsoletes RFC5075) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5175)']
+
+-- Analysis for RFC5095 :
+  ['5095', 'Deprecation of Type 0 Routing Headers in IPv6. J. Abley, P. Savola, G. Neville-Neil. December 2007. (Format: TXT, HTML) (Updates RFC2460, RFC4294) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5095)']
+
+-- Analysis for RFC4941 :
+  ['4941', 'Privacy Extensions for Stateless Address Autoconfiguration in IPv6. T. Narten, R. Draves, S. Krishnan. September 2007. (Format: TXT, HTML) (Obsoletes RFC3041) (Obsoleted by RFC8981) (Status: DRAFT STANDARD) (DOI: 10.17487/RFC4941)']
+      - Found new relationship : Obsoleted by RFC8981
+
+-- Analysis for RFC4862 :
+  ['4862', 'IPv6 Stateless Address Autoconfiguration. S. Thomson, T. Narten, T. Jinmei. September 2007. (Format: TXT, HTML) (Obsoletes RFC2462) (Updated by RFC7527) (Status: DRAFT STANDARD) (DOI: 10.17487/RFC4862)']
+      - Found new relationship : Updated by RFC7527
+
+-- Analysis for RFC4861 :
+  ['4861', 'Neighbor Discovery for IP version 6 (IPv6). T. Narten, E. Nordmark, W. Simpson, H. Soliman. September 2007. (Format: TXT, HTML) (Obsoletes RFC2461) (Updated by RFC5942, RFC6980, RFC7048, RFC7527, RFC7559, RFC8028, RFC8319, RFC8425, RFC9131) (Status: DRAFT STANDARD) (DOI: 10.17487/RFC4861)']
+      - Found new relationship : Updated by RFC5942, RFC6980, RFC7048, RFC7527, RFC7559, RFC8028, RFC8319, RFC8425, RFC9131
+
+-- Analysis for RFC4389 :
+  ['4389', 'Neighbor Discovery Proxies (ND Proxy). D. Thaler, M. Talwar, C. Patel. April 2006. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC4389)']
+
+-- Analysis for RFC4213 :
+  ['4213', 'Basic Transition Mechanisms for IPv6 Hosts and Routers. E. Nordmark, R. Gilligan. October 2005. (Format: TXT, HTML) (Obsoletes RFC2893) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4213)']
+
+-- Analysis for RFC4193 :
+  ['4193', 'Unique Local IPv6 Unicast Addresses. R. Hinden, B. Haberman. October 2005. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4193)']
+
+-- Analysis for RFC4007 :
+  ['4007', 'IPv6 Scoped Address Architecture. S. Deering, B. Haberman, T. Jinmei, E. Nordmark, B. Zill. March 2005. (Format: TXT, HTML) (Updated by RFC7346) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4007)']
+      - Found new relationship : Updated by RFC7346
+
+-- Analysis for RFC3971 :
+  ['3971', 'SEcure Neighbor Discovery (SEND). J. Arkko, Ed., J. Kempf, B. Zill, P. Nikander. March 2005. (Format: TXT, HTML) (Updated by RFC6494, RFC6495, RFC6980) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC3971)']
+      - Found new relationship : Updated by RFC6494, RFC6495, RFC6980
+
+-- Analysis for RFC3596 :
+  ['3596', 'DNS Extensions to Support IP Version 6. S. Thomson, C. Huitema, V. Ksinant, M. Souissi. October 2003. (Format: TXT, HTML) (Obsoletes RFC3152, RFC1886) (Also STD0088) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC3596)']
+
+-- Analysis for RFC3587 :
+  ['3587', 'IPv6 Global Unicast Address Format. R. Hinden, S. Deering, E. Nordmark. August 2003. (Format: TXT, HTML) (Obsoletes RFC2374) (Status: INFORMATIONAL) (DOI: 10.17487/RFC3587)']
+
+-- Analysis for RFC3493 :
+  ['3493', 'Basic Socket Interface Extensions for IPv6. R. Gilligan, S. Thomson, J. Bound, J. McCann, W. Stevens. February 2003. (Format: TXT, HTML) (Obsoletes RFC2553) (Status: INFORMATIONAL) (DOI: 10.17487/RFC3493)']
+
+-- Analysis for RFC3056 :
+  ['3056', 'Connection of IPv6 Domains via IPv4 Clouds. B. Carpenter, K. Moore. February 2001. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC3056)']
+
+-- Analysis for RFC3053 :
+  ['3053', 'IPv6 Tunnel Broker. A. Durand, P. Fasano, I. Guardini, D. Lento. January 2001. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC3053)']
+
+-- Analysis for RFC2894 :
+  ['2894', 'Router Renumbering for IPv6. M. Crawford. August 2000. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2894)']
+
+-- Analysis for RFC2675 :
+  ['2675', 'IPv6 Jumbograms. D. Borman, S. Deering, R. Hinden. August 1999. (Format: TXT, HTML) (Obsoletes RFC2147) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2675)']
+
+-- Analysis for RFC2464 :
+  ['2464', 'Transmission of IPv6 Packets over Ethernet Networks. M. Crawford. December 1998. (Format: TXT, HTML) (Obsoletes RFC1972) (Updated by RFC6085, RFC8064) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2464)']
+      - Found new relationship : Updated by RFC6085, RFC8064
+
+-- Analysis for RFC2185 :
+  ['2185', 'Routing Aspects of IPv6 Transition. R. Callon, D. Haskin. September 1997. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC2185)']
+
+-- Analysis for RFC1752 :
+  ['1752', 'The Recommendation for the IP Next Generation Protocol. S. Bradner, A. Mankin. January 1995. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC1752)']
+
+-- Analysis for RFC8200 :
+  ['8200', 'Internet Protocol, Version 6 (IPv6) Specification. S. Deering, R. Hinden. July 2017. (Format: TXT, HTML) (Obsoletes RFC2460) (Also STD0086) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC8200)']
+
+-- Analysis for RFC8201 :
+  ['8201', 'Path MTU Discovery for IP version 6. J. McCann, S. Deering, J. Mogul, R. Hinden, Ed.. July 2017. (Format: TXT, HTML) (Obsoletes RFC1981) (Also STD0087) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC8201)']
