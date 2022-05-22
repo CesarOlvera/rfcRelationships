@@ -5,8 +5,8 @@ In some cases you want to check the status of a list of IETF RFCs:
 - Preparation of a Request for Quotation (RfQ).
 - Analysis of a Product Datasheet.
 - Verification of the Requirements for IPv6 in ICT Equipment.
-  -  https://www.ripe.net/publications/docs/ripe-772
-  -  http://www.ipv6.unam.mx/documentos/Recomendaciones_Licitaciones-Compras-equipos-para-IPv6-UNAM-v6.pdf
+  -  http://www.ripe.net/publications/docs/ripe-772
+  -  http://www.ipv6.unam.mx/documentos/Recomendaciones_Licitaciones-Compras-equipos-para-IPv6-UNAM-v7.pdf
 
 
 This script is provided as is to help with the those checks.
