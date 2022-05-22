@@ -35,7 +35,8 @@ From **RFC 7841**:
     -v, --version         Show program's version number and exit.
 
 
-### Input:  One file "my-rfc-list.txt" with the list of RFCs you want to verify.
+### Input:  One file:
+    1. "my-rfc-list.txt" with the list of RFCs you want to verify.
 
     IMPORTANT: The RFCs in the list must me specified as 'RFC8200', 'RFC 8200' or '8200'.
     And they could be separated with new line (\n) or comma (,).
