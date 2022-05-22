@@ -11,7 +11,7 @@ In some cases you want to check the status of a list of IETF RFCs:
 
 This script is provided as is to help with the those checks.
 
-From RFC 7841:
+From **RFC 7841**:
 
    "[<RFC relation>:<RFC number[s]>]  Some relations between RFCs in the
       series are explicitly noted in the RFC header.  For example, a new
@@ -24,9 +24,9 @@ From RFC 7841:
   
 # Usage
   
-python3 rfc_relationships.py [-di] [-h] [-v]
+### python3 rfc_relationships.py [-di] [-h] [-v]
 
-optional arguments:
+### – optional arguments:
     -di, --downloadIndex  Download current official RFC Index from
                           "http://www.ietf.org/download/rfc-index.txt",
                           if this option is not included, then it uses a
@@ -35,15 +35,19 @@ optional arguments:
     -v, --version         Show program's version number and exit.
 
 
-Input:  One file "my-rfc-list.txt" with the list of RFCs you want to verify.
-        It has a list of RFCs specified as RFCXXXX or XXXX,
-        and separated with new line (\n) or comma (,).
+### Input:  One file "my-rfc-list.txt" with the list of RFCs you want to verify.
 
-Output: Three files:
-        - "rfc-analysis.txt"  with analysis of all RFCs with their information,
-           and stating if they are "Obsoleted" or "Updated".
-        - "rfc-obsoleted.txt" with the list of obsoleted RFCs.
-        - "rfc-updated.txt"   with the list of updated RFCs.
+    IMPORTANT: The RFCs in the list must me specified as 'RFC8200', 'RFC 8200' or '8200'.
+    And they could be separated with new line (\n) or comma (,).
+    Do not add the title of the RFCs.
+    See the example directory.
+
+  
+### Output: Three files:
+    1. "rfc-analysis.txt"  with analysis of all RFCs with their information,
+        and stating if they are "Obsoleted" or "Updated".
+    2. "rfc-obsoleted.txt" with the list of obsoleted RFCs.
+    3. "rfc-updated.txt"   with the list of updated RFCs.
 
  
 ![alt text](rfc_relationships_graph.png)
